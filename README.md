@@ -20,7 +20,7 @@ Two's Complement Guide:
 <img width="5591" height="2371" alt="division_example" src="https://github.com/user-attachments/assets/f2a1fee5-2ec0-40c6-a3ae-b7d8dec091d8" />
 
 - Division Example: divisor = 00001000 = +8, dividend = 11000111 = -57, quotient = 11111001 = -7, remainder = 11111111 = -1.
-
+_________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
  
 <img width="5402" height="2164" alt="error_example" src="https://github.com/user-attachments/assets/f0d1465b-a971-4ddd-8313-831f45c0dd4e" />
 
