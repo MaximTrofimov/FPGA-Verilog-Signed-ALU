@@ -19,30 +19,31 @@ Two's Complement Guide:
 ## Photos
 <img width="5591" height="2371" alt="division_example" src="https://github.com/user-attachments/assets/f2a1fee5-2ec0-40c6-a3ae-b7d8dec091d8" />
 
-- fasdsda
+- Division Example: divisor = 00001000 = +8, dividend = 11000111 = -57, quotient = 11111001 = -7, remainder = 11111111 = -1.
 <img width="5402" height="2164" alt="error_example" src="https://github.com/user-attachments/assets/f0d1465b-a971-4ddd-8313-831f45c0dd4e" />
 
-
+- Division Error Example: divisor = 00000000 = 0, dividend = 00000001 = 1, error_led = 1.
 <img width="5551" height="2262" alt="addition_example" src="https://github.com/user-attachments/assets/7aea9586-964e-41af-bc13-e51d9e3294b4" />
 
-
+- Addition/Subtraction Example: b = 00001100, a = 10010101, sum/difference = 110100001.
 <img width="5459" height="2234" alt="multiplication_example" src="https://github.com/user-attachments/assets/c94da3d3-7e03-4a10-a900-4f65e4b22db8" />
 
-
+- Multiplication Example: b = 10011011 = -101, a = 00001001 = 9, product = 1111110001110011 = -909.
 <img width="2210" height="732" alt="top_design_unsimplified" src="https://github.com/user-attachments/assets/e5b93829-442c-4c64-a892-920759dbc8bb" />
 
-
+- Unsimplified Top Design Schematic
 <img width="1052" height="957" alt="adder_subtractor" src="https://github.com/user-attachments/assets/88df10ff-4da2-41dc-9098-01f19f8315e3" />
 
-
+- Adder/Subtractor Schematic
 <img width="2205" height="858" alt="signed_divider" src="https://github.com/user-attachments/assets/d16a9ad5-4a26-4b7c-a9d1-28186a352ad9" />
 
-
+- Signed Divider Schematic
 <img width="2208" height="747" alt="signed_multipler" src="https://github.com/user-attachments/assets/5f474091-764a-4b12-84cb-40fb7e33166d" />
 
-
+- Signed Multiplier Schematic
 <img width="2212" height="1071" alt="top_design" src="https://github.com/user-attachments/assets/38ff0466-6d1b-4426-98db-f1bd586753e4" />
 
+- Simplified Top Design Schematic
 
 ## Repo Structure
 ```
